@@ -67,7 +67,6 @@ if (message.content === '!spam') {
       }
 });
 
-  if (command == "1say #credits @! vM,Ahmeed,Șɱ#5209 1000 ")
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
 if (message.content === '!spam') {
       let count = 0;
